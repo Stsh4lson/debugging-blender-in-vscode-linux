@@ -1,6 +1,8 @@
 # Blender and Vscode Debugger integration
 This is a short guide how to write and debug Blender Python script using more comfy editor like VSCode (or VSCodium or any other IDE with abillity to attach to remote debugger also works).\
 I also am using Linux here but it would probably work with any other OS.
+![image](https://user-images.githubusercontent.com/32339634/222483677-3bd554df-49e5-48df-a2e5-4c018b136b36.png)
+
 # Setting up python environment
 I suggest creating virtual environment using python venv or Conda but it is not required.
 Install fake bpy module for autosuggestion. Make sure that you are also using the latest blender version.
